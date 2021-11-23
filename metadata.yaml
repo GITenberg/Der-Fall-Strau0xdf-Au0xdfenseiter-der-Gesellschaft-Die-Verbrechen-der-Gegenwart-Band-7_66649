@@ -1,5 +1,8 @@
 _repo: Der-Fall-Strau0xdf-Au0xdfenseiter-der-Gesellschaft-Die-Verbrechen-der-Gegenwart-Band-7_66649
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66649-h/images/cover.jpg
 creator:
   author:
     agent_name: Otten, Karl
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66649#Der-Fall-Strau0xdf-Au0xdfenseiter-der-Gesellschaft-Die-Verbrechen-der-Gegenwart-Band-7
 gutenberg_issued: '2021-11-02'
 identifiers:
   gutenberg: '66649'
